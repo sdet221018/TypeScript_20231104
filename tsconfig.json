@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "outDir": "build",
+        "target": "esnext",
+ //       "noEmit": true
+//        "ignoreDeprecations":"5.0"
+    },
+    "include": ["src/**/*"]
+}
